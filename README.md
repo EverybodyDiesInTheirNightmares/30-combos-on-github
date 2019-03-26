@@ -1,5 +1,5 @@
 # 30 combos on github
-----
+---
 Due to the reason of domain expired,and i'm really a lazy guy,decided to finish a continuous code submission period.
 > * Force myself learning
 > * Record unmarked codes
